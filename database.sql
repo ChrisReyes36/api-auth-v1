@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS api_auth_v1;
+
+CREATE DATABASE IF NOT EXISTS api_auth_v1 CHARACTER SET "utf8" COLLATE "utf8_spanish2_ci";
